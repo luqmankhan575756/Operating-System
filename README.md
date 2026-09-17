@@ -25,7 +25,7 @@ The main objectives of this course are:
 
 ---
 
-## 📖 Topics Covered
+## 📖 Topics Covered.
 
 ### 1. Introduction to Operating Systems
 
@@ -74,7 +74,7 @@ The main objectives of this course are:
 * Readers-Writers Problem
 * Dining Philosophers Problem
 
-### 6. Deadlocks
+### 6. Deadlocks.
 
 * Deadlock Conditions
 * Deadlock Prevention
